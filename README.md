@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![Demo do Dashboard](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZtb25hcnNnYzhxdHR0aHVuYmM4bDVtbnJ0dDBjdzY3d3JtNWQ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vz2xrtG2k3b516Tz07/giphy.gif)
+<img src = "https://aims-senegal.org/wp-content/uploads/sites/2/2024/01/7T9364v.gif)"/>
 
 </div>
 
